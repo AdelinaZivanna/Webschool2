@@ -1,0 +1,11 @@
+<?php
+   require_once 'config.php';
+
+   function uhiha () {
+    global $db;
+    $get = $db->orderBy('tanggal', 'DESC')->get('artikel');
+    return $get;
+   }
+   
+
+?>
