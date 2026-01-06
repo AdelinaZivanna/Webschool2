@@ -4,12 +4,7 @@
                 <div class="footer-section">
                     <h3><i class="fas fa-graduation-cap"></i> Webschool</h3>
                     <p>Platform edukasi terdepan untuk pembelajaran yang lebih baik dan menyenangkan.</p>
-                    <div class="social-links">
-                        <a href="#"><i class="fab fa-facebook"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-youtube"></i></a>
-                    </div>
+                    
                 </div>
                 <div class="footer-section">
                     <h4>Quick Links</h4>
@@ -36,9 +31,6 @@
                         <li><i class="fas fa-map-marker-alt"></i> Jakarta, Indonesia</li>
                     </ul>
                 </div>
-            </div>
-            <div class="footer-bottom">
-                <p>&copy; 2024 Webschool. All rights reserved.</p>
             </div>
         </div>
     </footer>
