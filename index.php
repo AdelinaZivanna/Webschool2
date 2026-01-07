@@ -119,30 +119,30 @@ include 'inc/functions.php';
         <div class="row">
             <div class="col-lg-3 col-md-6 mb-3 mb-lg-4">
                 <div class="bg-light text-dark border text-center p-3 p-xl-4 rounded">
-                    <div class="pb-3"><i class="fas fa-trophy fa-3x"></i></div>
-                    <div class="h5 text-uppercase pb-2">Berprestasi</div>
-                    <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
+                    <div class="pb-3"><i class="fas fa-school fa-3x"></i></div>
+                    <div style="font-size: 60px; color: #ff0000ff" class="h1 text-uppercase pb-2"><?php echo get_feature_by_id(1, "isi"); ?></div>
+                    <div style="font-size: 22px"><?php echo get_feature_by_id(1,"judul"); ?></div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 mb-3 mb-lg-4">
                 <div class="bg-light text-dark border text-center p-3 p-xl-4 rounded">
-                    <div class="pb-3"><i class="fas fa-award fa-3x"></i></div>
-                    <div class="h5 text-uppercase pb-2">Terakreditasi A</div>
-                    <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
+                    <div class="pb-3"><i class="fas fa-solid fa-users fa-3x"></i></div>
+                    <div style="font-size: 60px; color: #ff0000ff" class="h1 text-uppercase pb-2"><?php echo get_feature_by_id(2, "isi"); ?></div>
+                    <div style="font-size: 22px"><?php echo get_feature_by_id(2,"judul"); ?></div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 mb-3 mb-lg-4">
                 <div class="bg-light text-dark border text-center p-3 p-xl-4 rounded">
-                    <div class="pb-3"><i class="fas fa-microscope fa-3x"></i></div>
-                    <div class="h5 text-uppercase pb-2">Modern</div>
-                    <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
+                    <div class="pb-3"><i class="fas fa-solid fa-user-tie fa-3x"></i></div>
+                   <div style="font-size: 60px; color: #ff0000ff" class="h1 text-uppercase pb-2"><?php echo get_feature_by_id(3, "isi"); ?></div>
+                    <div style="font-size: 22px"><?php echo get_feature_by_id(3,"judul"); ?></div>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 mb-3 mb-lg-4">
                 <div class="bg-light text-dark border text-center p-3 p-xl-4 rounded">
-                    <div class="pb-3"><i class="fas fa-shapes fa-3x"></i></div>
-                    <div class="h5 text-uppercase pb-2">Ekstrakurikuler</div>
-                    <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
+                    <div class="pb-3"><i class="fas fa-user-graduate     fa-3x"></i></div>
+                    <div style="font-size: 60px; color: #ff0000ff" class="h1 text-uppercase pb-2"><?php echo get_feature_by_id(4, "isi"); ?></div>
+                    <div style="font-size: 22px"><?php echo get_feature_by_id(4,"judul"); ?></div>
                 </div>
             </div>
         </div>
