@@ -373,6 +373,11 @@ body {
     color: var(--text-light);
 }
 
+.carousel-item img {
+  height: 420px;          
+  object-fit: cover;    
+}
+
 /* Footer */
 .footer {
     background: var(--text-dark);
