@@ -260,11 +260,9 @@ body {
 
 
 .carousel-item img {
-  height: 420px;        
-  object-fit: cover;     
+  height: 420px;          
+  object-fit: cover;    
 }
-
-/* Article Detail Page */
 .article-detail {
     max-width: 900px;
     margin: 40px auto;
@@ -371,11 +369,6 @@ body {
     margin: 25px 0;
     font-style: italic;
     color: var(--text-light);
-}
-
-.carousel-item img {
-  height: 420px;          
-  object-fit: cover;    
 }
 
 /* Footer */

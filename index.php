@@ -50,6 +50,12 @@ include 'inc/functions.php';
         <span class="visually-hidden">Next</span>
         </button>
     </div>
+    <div class="hero-section">
+        <div class="container">
+            <h1>Selamat Datang di Webschool</h1>
+            <p>SMK Pusat Keunggulan Raden Umar Said Kudus</p>
+        </div>
+    </div>
     <div class="container py-5">
         <div class="row py-3">
             <div class="col-lg-7 mb-4">
